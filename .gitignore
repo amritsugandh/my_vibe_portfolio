@@ -1,0 +1,13 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDAs and Editors
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Antigravity artifacts (if they were inside the repo, but they are in .gemini)
+.gemini/
+brain/
